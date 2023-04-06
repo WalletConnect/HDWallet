@@ -6,6 +6,7 @@
 //  Copyright © 2018 yuzushioh. All rights reserved.
 //
 
+import Foundation
 import CryptoSwift
 
 public final class Crypto {

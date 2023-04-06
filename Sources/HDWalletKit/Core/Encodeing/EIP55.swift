@@ -5,6 +5,7 @@
 //  Created by Pavlo Boiko on 28.06.18.
 //
 
+import Foundation
 import CryptoSwift
 
 // NOTE: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-55.md
